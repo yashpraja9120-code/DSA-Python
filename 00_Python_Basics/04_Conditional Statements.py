@@ -1,3 +1,7 @@
+#1. Take three user inputs and print the greatest number from those inputs using if-else condition. Edge cases, if any, should also be handled.
+
+
+
 a = int(input("Enter first a number:"))
 b = int(input("Enter second number:"))
 c = int(input("Enter third mumber:"))
