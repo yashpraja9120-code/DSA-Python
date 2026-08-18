@@ -1,3 +1,5 @@
+#Input the values of a and b as 10 and 20 respectively. Now check if a is greater or b is greater using if condition. Think about all the edge cases, and print the statements accordingly.
+
 a = 10
 b = 20
 
